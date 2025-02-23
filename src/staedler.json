@@ -1,0 +1,175 @@
+{
+  "staedler": {
+    "$type": "color",
+    "triplusFineliner334": {
+      "1": {
+        "$value": "#FAEE03",
+        "$description": "yellow"
+      },
+      "101": {
+        "$value": "#FAEE03",
+        "$description": "neon yellow"
+      },
+      "110": {
+        "$value": "#F9C300",
+        "$description": "bright yellow"
+      },
+      "2": {
+        "$value": "#D81300",
+        "$description": "red"
+      },
+      "20": {
+        "$value": "#F90E92",
+        "$description": "magenta"
+      },
+      "201": {
+        "$value": "#BC171D",
+        "$description": "neon red"
+      },
+      "21": {
+        "$value": "#FCBDD5",
+        "$description": "light rosé"
+      },
+      "221": {
+        "$value": "#FB5BBA",
+        "$description": "neon pink"
+      },
+      "222": {
+        "$value": "#FAB296",
+        "$description": "salmon"
+      },
+      "23": {
+        "$value": "#B20F52",
+        "$description": "bordeaux"
+      },
+      "260": {
+        "$value": "#96698A",
+        "$description": "mauve"
+      },
+      "29": {
+        "$value": "#982533",
+        "$description": "carmine red"
+      },
+      "3": {
+        "$value": "#223C9F",
+        "$description": "blue"
+      },
+      "30": {
+        "$value": "#669BD1",
+        "$description": "pale blue"
+      },
+      "301": {
+        "$value": "#40BBFB",
+        "$description": "neon blue"
+      },
+      "34": {
+        "$value": "#89CAE8",
+        "$description": "aqua blue"
+      },
+      "36": {
+        "$value": "#2D4061",
+        "$description": "indigo blue"
+      },
+      "37": {
+        "$value": "#3393CF",
+        "$description": "ultramarine blue"
+      },
+      "4": {
+        "$value": "#F86F02",
+        "$description": "orange"
+      },
+      "401": {
+        "$value": "#E8BC35",
+        "$description": "neon orange"
+      },
+      "43": {
+        "$value": "#FBCC8D",
+        "$description": "light orange"
+      },
+      "48": {
+        "$value": "#B15026",
+        "$description": "kalahari orange"
+      },
+      "5": {
+        "$value": "#0F7730",
+        "$description": "green"
+      },
+      "501": {
+        "$value": "#3EA83C",
+        "$description": "neon green"
+      },
+      "51": {
+        "$value": "#D5EC7A",
+        "$description": "willow green"
+      },
+      "53": {
+        "$value": "#CBDD71",
+        "$description": "lime green"
+      },
+      "54": {
+        "$value": "#7BBCB8",
+        "$description": "turquoise"
+      },
+      "55": {
+        "$value": "#053F1E",
+        "$description": "green earth"
+      },
+      "550": {
+        "$value": "#37C37A",
+        "$description": "pale green"
+      },
+      "57": {
+        "$value": "#4D4C14",
+        "$description": "olive green"
+      },
+      "6": {
+        "$value": "#58007A",
+        "$description": "violet"
+      },
+      "61": {
+        "$value": "#A00088",
+        "$description": "red violet"
+      },
+      "62": {
+        "$value": "#BE89D1",
+        "$description": "lavender"
+      },
+      "63": {
+        "$value": "#709FCB",
+        "$description": "delft blue"
+      },
+      "69": {
+        "$value": "#3F215F",
+        "$description": "dark mauve"
+      },
+      "7": {
+        "$value": "#D36602",
+        "$description": "light brown"
+      },
+      "73": {
+        "$value": "#BA4109",
+        "$description": "burnt sienna"
+      },
+      "76": {
+        "$value": "#641400",
+        "$description": "Brown"
+      },
+      "77": {
+        "$value": "#5F4E46",
+        "$description": "tobacco brown"
+      },
+      "8": {
+        "$value": "#5E575F",
+        "$description": "grey"
+      },
+      "82": {
+        "$value": "#AFB2B9",
+        "$description": "light grey"
+      },
+      "9": {
+        "$value": "#000000",
+        "$description": "black"
+      }
+    }
+  }
+}

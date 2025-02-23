@@ -1,0 +1,48 @@
+{
+  "source": [
+    "src/**/*.json"
+  ],
+  "platforms": {
+    "js": {
+      "buildPath": "lib/js/",
+      "files": [
+        {
+          "destination": "pen-colors.umd.js",
+          "format": "javascript/umd",
+          "options": {
+            "name": "PenColors"
+          }
+        },
+        {
+          "destination": "pen-colors.esm.js",
+          "format": "javascript/esm"
+        },
+        {
+          "destination": "pen-colors.d.ts",
+          "format": "typescript/module-declarations"
+        }
+      ]
+    },
+    "json": {
+      "buildPath": "lib/json/",
+      "files": [
+        {
+          "destination": "pen-colors.full.json",
+          "format": "json",
+          "options": {
+            "stripMeta": {
+              "keep": [
+                "$value",
+                "$description"
+              ]
+            }
+          }
+        },
+        {
+          "destination": "pen-colors.json",
+          "format": "json/nested"
+        }
+      ]
+    }
+  }
+}

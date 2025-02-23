@@ -1,0 +1,25 @@
+{
+  "name": "pen-colors",
+  "version": "1.0.0",
+  "description": "Repository of pen colors for plotting.",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drskullster/pen-colors.git"
+  },
+  "keywords": [
+    "penplotter"
+  ],
+  "author": "Jaune <drskullster@pm.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drskullster/pen-colors/issues"
+  },
+  "homepage": "https://github.com/drskullster/pen-colors#readme",
+  "dependencies": {
+    "style-dictionary": "^4.3.3"
+  }
+}
