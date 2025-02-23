@@ -31,4 +31,6 @@ by having a single source of truth available to everyone in a wide range of form
 
 ### I don't use Node.js, NPM or Javascript. Is this project not for me?
 
-You can download or link to the colors in JSON format on different CDN: https://unpkg.com/pen-colors@1.0.2/lib/json/pen-colors.json
+You can download or link to the colors in JSON format: https://unpkg.com/pen-colors@1.0.2/lib/json/pen-colors.json
+
+Or if you want an object containing color descriptions: https://unpkg.com/pen-colors@1.0.2/lib/json/pen-colors.full.json 
