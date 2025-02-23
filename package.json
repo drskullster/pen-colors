@@ -1,6 +1,6 @@
 {
   "name": "pen-colors",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Repository of pen colors for plotting.",
   "main": "lib/json/pen-colors.json",
   "files": [

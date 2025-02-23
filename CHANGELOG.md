@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/drskullster/pen-colors/compare/v1.0.2...v1.0.3) (2025-02-23)
+
+
+### Bug Fixes
+
+* package-lock.json not synced ([2ef0806](https://github.com/drskullster/pen-colors/commit/2ef08061b3cc5b8ebc3e69c714fe336af61dfb3f))
+
 ## [1.0.2](https://github.com/drskullster/pen-colors/compare/v1.0.1...v1.0.2) (2025-02-23)
 
 
