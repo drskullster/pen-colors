@@ -2,8 +2,7 @@
   "name": "pen-colors",
   "version": "1.0.4",
   "description": "Repository of pen colors for plotting.",
-  "main": "lib/js/pen-colors.umd.json",
-  "module": "lib/js/pen-colors.esm.js",
+  "main": "lib/js/pen-colors.ems.js",
   "files": [
     "lib/"
   ],
