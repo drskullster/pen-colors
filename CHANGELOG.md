@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/drskullster/pen-colors/compare/v1.0.4...v1.0.5) (2025-02-23)
+
+
+### Bug Fixes
+
+* package.json missing "type" attribute ([97c03c3](https://github.com/drskullster/pen-colors/commit/97c03c36ad8585c771e9dc35af060ac01359abba))
+
 ## [1.0.4](https://github.com/drskullster/pen-colors/compare/v1.0.3...v1.0.4) (2025-02-23)
 
 
