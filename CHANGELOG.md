@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/drskullster/pen-colors/compare/v1.0.5...v1.0.6) (2025-02-23)
+
+
+### Bug Fixes
+
+* package.json main field ([224ba96](https://github.com/drskullster/pen-colors/commit/224ba96e20f8097ac7b543c29d149241ef5ce62c))
+
 ## [1.0.5](https://github.com/drskullster/pen-colors/compare/v1.0.4...v1.0.5) (2025-02-23)
 
 
