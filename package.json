@@ -2,7 +2,7 @@
   "name": "pen-colors",
   "version": "1.0.0",
   "description": "Repository of pen colors for plotting.",
-  "main": "index.js",
+  "main": "config.json",
   "scripts": {
     "build": "style-dictionary build"
   },
