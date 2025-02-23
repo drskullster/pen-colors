@@ -1,3 +1,11 @@
+## [1.0.7](https://github.com/drskullster/pen-colors/compare/v1.0.6...v1.0.7) (2025-02-23)
+
+
+### Bug Fixes
+
+* change style-dictionary to dev dependency, add type field in package.json ([b2947ad](https://github.com/drskullster/pen-colors/commit/b2947ad15de572cca3a440da9079352f24c026b7))
+* rename release config file to avoid failure due to package being of type module ([e423db1](https://github.com/drskullster/pen-colors/commit/e423db1741c2ea8f9590db99cddf9f03b331b579))
+
 ## [1.0.6](https://github.com/drskullster/pen-colors/compare/v1.0.5...v1.0.6) (2025-02-23)
 
 
